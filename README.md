@@ -1,7 +1,7 @@
 
-# :sparkles: SacredGames: Hide Spoilers - Chrome Extension <img src="Sacred_Games_Title.png" width="64"/>
+# :sparkles: Dark: Hide Spoilers - Chrome Extension <img src="Sacred_Games_Title.png" width="64"/>
 
-This extension will save you from reading any Sacred Games Spoilers as well as visual images. <br/>
+This extension will save you from reading any Dark Spoilers as well as visual images. <br/>
 
 I am not an expert with Google Chrome Development and this is my first extension made ever. 
 
