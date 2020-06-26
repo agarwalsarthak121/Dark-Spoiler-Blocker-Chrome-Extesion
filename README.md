@@ -19,4 +19,4 @@ I am not an expert with Google Chrome Development and this is my first extension
 - Select the path where you cloned/downloaded this project.
 - That's all :D 
 
-<img src="dark_spoiler.jpg">
+![Alt text](./dark_spoiler.JPG?raw=true "Title")
