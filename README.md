@@ -18,3 +18,4 @@ I am not an expert with Google Chrome Development and this is my first extension
 - Click on `Load Unpacked` which you can see in the top left side.
 - Select the path where you cloned/downloaded this project.
 - That's all :D 
+
